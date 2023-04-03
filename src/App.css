@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.name{
+font: italic;
+color: blue;
+}
+.user-img{
+  border-radius:50% ;
+  width: 300px;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
