@@ -25,7 +25,7 @@ function Welcome({pic,name}){//2nd method of code reducing
     <div>
       <img className="user-img" src={pic} alt={name}/>
       <h1>
-        Hello, <span className="name">{name}</span> 😍{" "}
+        Hello, <span className="name">{name}</span> 😍💗💗💗{" "}
       </h1>
     </div>
   );
